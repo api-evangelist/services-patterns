@@ -9,4 +9,6 @@ tags:
 created: '2025'
 modified: '2025'
 apis: []
-common: []
+common:
+  - url: https://microservices.io/feed.xml
+    type: Blog
